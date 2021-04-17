@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\bin\Debug\DnlibObfuscator.exe.config
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\bin\Debug\DnlibObfuscator.exe
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\bin\Debug\DnlibObfuscator.pdb
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\bin\Debug\dnlib.dll
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\obj\Debug\DnlibObfuscator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\obj\Debug\DnlibObfuscator.csproj.CopyComplete
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\obj\Debug\DnlibObfuscator.exe
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\obj\Debug\DnlibObfuscator.pdb
+C:\Users\Daniel\Documents\GitHub\DnlibObfuscation\DnlibObfuscator\obj\Debug\DnlibObfuscator.csprojAssemblyReference.cache
